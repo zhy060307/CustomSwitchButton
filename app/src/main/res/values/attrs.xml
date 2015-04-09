@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <attr name="btnBackground" format="reference" />
+    <attr name="btnSwitch" format="reference" />
+    <attr name="switchState" format="boolean" />
+
+    <declare-styleable name="CustomSwitchButton">
+        <attr name="btnBackground" />
+        <attr name="btnSwitch" />
+        <attr name="switchState" />
+    </declare-styleable>
+
+</resources>
